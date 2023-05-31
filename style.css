@@ -6,7 +6,7 @@ html, body{
     height: 100%;
 }
 body{
-    background: linear-gradient(to right,rgba(234, 255, 0, 0.64),rgba(253, 0, 0, 0.705));
+    background: linear-gradient(to right, rgb(0,255,0), rgb(255,0,0));
 }
 h1,h2{
     text-align: center;
